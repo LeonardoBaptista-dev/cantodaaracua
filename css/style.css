@@ -293,6 +293,11 @@
 
 
 /*** Footer ***/
+.d-flex.justify-content-center {
+    align-items: center;
+    min-height: 100vh;
+}
+
 .footer .btn.btn-social {
     margin-right: 5px;
     width: 35px;
