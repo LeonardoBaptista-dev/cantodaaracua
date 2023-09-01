@@ -200,7 +200,7 @@
 }
 
 
-/*** Service ***/
+/*** sobre nos ***/
 .service-item {
     box-shadow: 0 0 45px rgba(0, 0, 0, .08);
     transition: .5s;
@@ -219,7 +219,7 @@
 }
 
 
-/*** Food Menu ***/
+/*** o que fazer ***/
 .nav-pills .nav-item .active {
     border-bottom: 2px solid var(--primary);
 }
@@ -229,7 +229,7 @@
 
 
 
-/*** Team ***/
+/*** cabanas ***/
 .team-item {
     box-shadow: 0 0 45px rgba(0, 0, 0, .08);
     height: calc(100% - 38px);
