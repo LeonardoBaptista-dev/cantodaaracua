@@ -118,12 +118,7 @@
         position: relative;
         
     }
-    .navbar {
-        position: relative;
-        display: flex;
-        flex-wrap: nowrap;
-        align-items: center;
-    }
+
 
     .navbar-dark .navbar-collapse {
         margin-top: 15px;
